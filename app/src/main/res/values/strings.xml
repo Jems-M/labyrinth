@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Labyrinth</string>
+    <string name="title_activity_maps">Labyrinth</string>
+    <string name="permissions_request">Location data is needed for basic game functions.</string>
+    <string name="permissions_thanks">Thank you!</string>
+    <string name="pathing_text_on">Now recording your path! Press the button again when you\'re done.</string>
+    <string name="pathing_text_off">Finished recording your path.</string>
+    <string name="searching_text_on">Now recording a path to search for! Press the button again when you\'re done.</string>
+    <string name="found_message">You found a message from another labyrinth-delver.</string>
+    <string name="hiding_message">Write a message to hide…</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+</resources>
